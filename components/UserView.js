@@ -91,6 +91,7 @@ const styles = StyleSheet.create({
     lineHeight: 20,
     color: "#000000",
     marginTop: 24,
+    padding: 10
   },
   email: {
     fontFamily: "Comfortaa",
