@@ -26,7 +26,6 @@ const UserView = () => {
       />
       <View style={styles.infoContainer}>
         <Text style={styles.name}>{user.name}</Text>
-        <Text style={styles.nickname}>'{user.nickname}'</Text>
         <Text style={styles.address}>Based in {user.address}</Text>
         <Text style={styles.email}>'{user.email}'</Text>
       </View>
